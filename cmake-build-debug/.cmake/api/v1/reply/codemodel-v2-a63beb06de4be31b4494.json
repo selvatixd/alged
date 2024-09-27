@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "alged",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "alged_att1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-alged_att1-Debug-d642545e65a3100c05c4.json",
+					"name" : "alged_att1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "alged_att10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-alged_att10-Debug-52f8f4fb8e6fc6288d06.json",
+					"name" : "alged_att10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "alged_att2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-alged_att2-Debug-da9ec61e6d17d09a8866.json",
+					"name" : "alged_att2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "alged_att3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-alged_att3-Debug-7dcfd5cef6b48de8d5d4.json",
+					"name" : "alged_att3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "alged_att4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-alged_att4-Debug-8f98dd8a65d93d256b91.json",
+					"name" : "alged_att4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "alged_att5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-alged_att5-Debug-8ad6a41e78011d3ff079.json",
+					"name" : "alged_att5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "alged_att6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-alged_att6-Debug-41f1664d340a55d4698f.json",
+					"name" : "alged_att6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "alged_att7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-alged_att7-Debug-fbd21476efc16c7943b9.json",
+					"name" : "alged_att7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "alged_att8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-alged_att8-Debug-76d5051f306a98430216.json",
+					"name" : "alged_att8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "alged_att9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-alged_att9-Debug-9d99388318bf33d7a926.json",
+					"name" : "alged_att9",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Math/CLionProjects/alged/cmake-build-debug",
+		"source" : "C:/Users/Math/CLionProjects/alged"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
